@@ -1,0 +1,8 @@
+models\Scholarship.class
+models\Student.class
+utils\List.class
+utils\LinkedList$Node.class
+utils\LinkedList.class
+com\mycompany\lw_task7\LW_Task7.class
+utils\LinkedList$1.class
+utils\DataReader.class

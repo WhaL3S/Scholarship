@@ -1,0 +1,53 @@
+Initial
+----------------------------------------------------------------------------------------
+Serial | Name and Surname | Group | Telephone | Scholarship | Forerunner | Amount
+----------------------------------------------------------------------------------------
+  111     name1 surname1    IFU1     789456        false         false          0
+  222     name2 surname2    IFU1     799455        false         false          0
+  333     name3 surname3    IFU0     748956        false         false          0
+  444     name4 surname4    IFU2     714865        false         false          0
+  555     name5 surname5    IFU3     725498        false         false          0
+----------------------------------------------------------------------------------------
+
+Scholarship organized
+----------------------------------------------------------------------------------------
+Serial | Name and Surname | Group | Telephone | Scholarship | Forerunner | Amount
+----------------------------------------------------------------------------------------
+  111     name1 surname1    IFU1     789456         true         false       2439
+  222     name2 surname2    IFU1     799455         true          true       2682
+  333     name3 surname3    IFU0     748956         true         false       2439
+  444     name4 surname4    IFU2     714865         true         false       2439
+  555     name5 surname5    IFU3     725498        false         false          0
+----------------------------------------------------------------------------------------
+
+Sorted by amount and name
+----------------------------------------------------------------------------------------
+Serial | Name and Surname | Group | Telephone | Scholarship | Forerunner | Amount
+----------------------------------------------------------------------------------------
+  222     name2 surname2    IFU1     799455         true          true       2682
+  111     name1 surname1    IFU1     789456         true         false       2439
+  333     name3 surname3    IFU0     748956         true         false       2439
+  444     name4 surname4    IFU2     714865         true         false       2439
+  555     name5 surname5    IFU3     725498        false         false          0
+----------------------------------------------------------------------------------------
+
+Students removed
+----------------------------------------------------------------------------------------
+Serial | Name and Surname | Group | Telephone | Scholarship | Forerunner | Amount
+----------------------------------------------------------------------------------------
+  222     name2 surname2    IFU1     799455         true          true       2682
+  111     name1 surname1    IFU1     789456         true         false       2439
+  333     name3 surname3    IFU0     748956         true         false       2439
+  444     name4 surname4    IFU2     714865         true         false       2439
+----------------------------------------------------------------------------------------
+
+Type group name:
+IFU1
+
+Forerunner(s) of the group: IFU1
+----------------------------------------------------------------------------------------
+Serial | Name and Surname | Group | Telephone | Scholarship | Forerunner | Amount
+----------------------------------------------------------------------------------------
+  222     name2 surname2    IFU1     799455         true          true       2682
+----------------------------------------------------------------------------------------
+
